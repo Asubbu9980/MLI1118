@@ -1,0 +1,13 @@
+nav{
+    background-color: #f4620d;
+}
+.navbar-nav a {
+    color: white;
+}
+.logout-text{
+    color: #f4620d;
+}
+.cart-count{
+    background-color: white;
+    color: #f4620d;
+}

@@ -1,0 +1,21 @@
+table thead tr th{
+    border: 1px solid gray;
+}
+table tbody tr td{
+    border: 1px solid gray;
+}
+
+.table-head {
+   
+    color: white;
+}
+.table-head-row{
+    color: white;
+}
+.table-cell-head{
+    color: white;
+}
+
+.table-head{
+    background-color: #f4620d;
+}

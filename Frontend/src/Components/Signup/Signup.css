@@ -1,0 +1,14 @@
+.signup-text{
+    color: #f4620d;
+}
+.signup-btn{
+    background-color:#f4620d ;
+    color: white;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+
+}
+.signup-btn:hover{
+    transform: scale(1.1);
+}
